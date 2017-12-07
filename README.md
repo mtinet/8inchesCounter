@@ -1,1 +1,7 @@
 # 8inchesCounter
+
+## 8inches 7digit * 4개가 달려있는 카운터를 제작하고자 함.
+
+[SN74HC595N 쉬프트레지스터 사용법](http://wiki.vctec.co.kr/opensource/arduino/shiftregister)  
+
+[8inches 7digit 구입처](https://www.aliexpress.com/item/8-8in-Digital-Tube-12V-Common-Anode-8-inches-7-Segment-1-Bit-LED-Display-With/32642152847.html?spm=a2g0s.9042311.0.0.dJRVEN)
