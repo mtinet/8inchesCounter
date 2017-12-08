@@ -1,3 +1,5 @@
+// 1개의 SN74HC595N 시프트 레지스터와 1개의 7segment를 이용해 1~9까지 반복적으로 보여주는 예제  
+
 int dataPin = 4;
 int latchPin = 5;
 int clockPin = 6;
