@@ -28,7 +28,7 @@
 ---
 ### C1815 NPN Transistor  
 #### 1. PinOut  
-![](https://github.com/mtinet/8inchesCounter/blob/master/image/c1815-pinout.jpg?raw=true  
+![](https://github.com/mtinet/8inchesCounter/blob/master/image/c1815-pinout.jpg?raw=true)  
 
 #### 2. Specification  
 ![](https://github.com/mtinet/8inchesCounter/blob/master/image/948200210_875.jpg?raw=true)  
