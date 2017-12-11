@@ -7,7 +7,12 @@
 
 ### SN74HC595N  
 [SN74HC595N 쉬프트레지스터 사용법](http://wiki.vctec.co.kr/opensource/arduino/shiftregister)  
-![](https://github.com/mtinet/8inchesCounter/blob/master/image/74HC595.jpg?raw=true)  
+
+#### 실물사진  
+![](https://github.com/mtinet/8inchesCounter/blob/master/image/74HC595.jpg?raw=true)  
+
+#### 아두이노와의 결선방법  
+![](https://github.com/mtinet/8inchesCounter/blob/master/image/74HC595_arduino.jpg?raw=true  
 
 ### SN74HC595N을 이용한 4digit 7segment 회로결선방법
 ![](https://github.com/mtinet/8inchesCounter/blob/master/image/4digit%207segment.png?raw=true)
